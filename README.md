@@ -72,7 +72,7 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 
 ## Authors
 
-- [lamlesh1988](https://github.com/kamlesh1988)
+- [Kamlesh1988](https://github.com/kamlesh1988)
 ## Disclaimer
 
 These scripts are provided 'as is', and the author is not responsible for any consequences resulting from their use. Users are advised to test them in a development environment before deploying to production.
