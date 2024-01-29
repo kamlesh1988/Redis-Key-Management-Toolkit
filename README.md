@@ -78,4 +78,3 @@ Contributions, issues, and feature requests are welcome. Feel free to check [iss
 These scripts are provided 'as is', and the author is not responsible for any consequences resulting from their use. Users are advised to test them in a development environment before deploying to production.
 
 ---
-```
